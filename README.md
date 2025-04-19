@@ -34,9 +34,6 @@ Program ini adalah aplikasi berbasis konsol (CLI) untuk mengelola dan mencari da
    - Pencarian berdasarkan tahun
    - Pencarian berdasarkan penulis
 
-5. *Performa*
-   - Menampilkan waktu eksekusi untuk tiap operasi pencarian
-   - Menggunakan indeks untuk mempercepat pencarian binary search
 
 ## Struktur Program
 
@@ -52,3 +49,4 @@ Program menggunakan struktur Paper untuk menyimpan data setiap paper ilmiah dan 
    - Masukkan kata kunci pencarian
 
 Program ini dibuat dengan C++ dan memanfaatkan fitur seperti STL vectors, algoritma sorting, serta pengukuran waktu eksekusi menggunakan library chrono untuk analisis performa.
+
