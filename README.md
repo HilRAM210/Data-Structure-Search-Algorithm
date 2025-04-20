@@ -17,7 +17,7 @@ Program ini adalah aplikasi berbasis konsol (CLI) untuk mengelola dan mencari da
 ## Fitur Utama
 
 1. *Memuat Data dari File*
-   - Mendukung format CSV/TXT dengan pemisah karakter '|'
+   - Mendukung format CSV dengan pemisah karakter ','
    - Struktur data: Sumber, Topik, Judul, Penulis, dan Tahun
 
 2. *Menampilkan Semua Data*
@@ -41,7 +41,7 @@ Program menggunakan struktur Paper untuk menyimpan data setiap paper ilmiah dan 
 
 ## Cara Penggunaan
 
-1. Pilih opsi "Muat Data" dan masukkan nama file data (CSV/TXT)
+1. Pilih opsi "Muat Data" dan masukkan nama file data (CSV)
 2. Gunakan menu "Tampilkan Semua Data" untuk melihat seluruh data
 3. Gunakan menu "Pencarian" untuk mencari paper berdasarkan kriteria tertentu
    - Pilih metode pencarian (Linear atau Binary)
