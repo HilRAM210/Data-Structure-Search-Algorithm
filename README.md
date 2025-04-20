@@ -41,7 +41,7 @@ Program menggunakan struktur Paper untuk menyimpan data setiap paper ilmiah dan 
 
 ## Cara Penggunaan
 
-1. Pilih opsi "Muat Data" dan masukkan nama file data (CSV)
+1. Pilih opsi "Muat Data" dan pastikan file dataset dengan format (CSV) berada dalam direktori yang sama
 2. Gunakan menu "Tampilkan Semua Data" untuk melihat seluruh data
 3. Gunakan menu "Pencarian" untuk mencari paper berdasarkan kriteria tertentu
    - Pilih metode pencarian (Linear atau Binary)
